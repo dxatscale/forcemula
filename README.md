@@ -4,6 +4,8 @@
 # Forcemula 
 
 
+### Forked from https://github.com/pgonzaleznetwork/forcemula
+
 ### Extract metadata from Salesforce formulas
 
 `forcemula` in a `NPM` javascript module that helps with extracting the fields, objects, custom settings, etc., out of Salesforce formulas.
@@ -21,6 +23,7 @@ This makes it easy and safe to plug it into your existing product.
 ## Contents
 
 - [Forcemula](#forcemula)
+    - [Forked from https://github.com/pgonzaleznetwork/forcemula](#forked-from-httpsgithubcompgonzaleznetworkforcemula)
     - [Extract metadata from Salesforce formulas](#extract-metadata-from-salesforce-formulas)
   - [Contents](#contents)
     - [Why should I use this?](#why-should-i-use-this)

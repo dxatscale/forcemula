@@ -9,8 +9,8 @@
     "watch": "jest --silent=false --verbose --detectOpenHandles --coverage --watchAll",
     "test:coverage": "jest --silent=false --verbose --detectOpenHandles --coverage"
   },
-  "author": "Pablo Gonzalez",
-  "license": "ISC",
+  "author": "dxatscale",
+  "license": "MIT",
   "devDependencies": {
     "jest": "^27.5.1"
   },
