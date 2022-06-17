@@ -4,14 +4,6 @@
 # Forcemula 
 
 
-<p align=center>
-
-<img src="./coverage/badge-lines.svg">
-<a href="https://github.com/pgonzaleznetwork/forcemula/actions/workflows/nodejs.yaml">
-		<img src="https://github.com/pgonzaleznetwork/forcemula/workflows/Tests/badge.svg?style=flat" />
-</a>
-</p>
-
 ### Extract metadata from Salesforce formulas
 
 `forcemula` in a `NPM` javascript module that helps with extracting the fields, objects, custom settings, etc., out of Salesforce formulas.
@@ -28,20 +20,23 @@ This makes it easy and safe to plug it into your existing product.
 
 ## Contents
 
-* [Why should I use this?](#why-should-i-use-this)
-* [Quick start and example](#quick-start-and-example)
-* [Functions and Operators](##functions-and-operators)
-* [User-based fields](#user-based-fields)
-* [Self-referential relationships](#self-referential-relationships)
-* [Standard and Custom fields](#standard-and-custom-fields)
-* [$ObjectType fields](#objecttype-fields)
-* [Custom Metadata Types](#custom-metadata-types)
-* [Standard relationship fields](#standard-relationship-fields)
-* [Custom relationship fields](#custom-relationship-fields)
-* [Process Builder formulas](#process-builder-formulas)
-* [Comments](#comments)
-* [Objects, custom labels and custom settings](#objects-custom-labels-and-custom-settings)
-* [Special support for CPQ](#special-support-for-cpq)
+- [Forcemula](#forcemula)
+    - [Extract metadata from Salesforce formulas](#extract-metadata-from-salesforce-formulas)
+  - [Contents](#contents)
+    - [Why should I use this?](#why-should-i-use-this)
+    - [Quick start and example](#quick-start-and-example)
+    - [Functions and Operators](#functions-and-operators)
+    - [User-based fields](#user-based-fields)
+    - [Self-referential relationships](#self-referential-relationships)
+    - [Standard and custom fields](#standard-and-custom-fields)
+    - [$ObjectType fields](#objecttype-fields)
+    - [Custom Metadata Types](#custom-metadata-types)
+    - [Standard relationship fields](#standard-relationship-fields)
+    - [Custom relationship fields](#custom-relationship-fields)
+    - [Process Builder formulas](#process-builder-formulas)
+    - [Comments](#comments)
+    - [Objects, custom labels and custom settings](#objects-custom-labels-and-custom-settings)
+    - [Special support for CPQ](#special-support-for-cpq)
 
 
 ### Why should I use this?
